@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+from JAK.Application import JWebApp
+
+def udemy_online():
+    url = "https://www.udemy.com"
+
+    webapp = JWebApp(title="Udemy Online", web_contents=url, online=True)
+
+    return webapp
+
+
+udemy_online().run()
+
