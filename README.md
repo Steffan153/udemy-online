@@ -1,6 +1,8 @@
-# Installation
+# Udemy Online
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3212b11ec731407a8509fbc08e94bcea)](https://app.codacy.com/app/caleb_5/udemy-online?utm_source=github.com&utm_medium=referral&utm_content=Steffan153/udemy-online&utm_campaign=Badge_Grade_Dashboard)
+
+## Installation
 
 Clone repo:
 ```bash
@@ -13,6 +15,6 @@ cd udemy-online
 sudo sh install.sh
 ```
 
-# Usage
+## Usage
 
 Open up menu, find "Udemy Online" and click on it.
